@@ -9,4 +9,6 @@ documentation.
 :caption: Contents:
 some-feature.md
 another-feature.md
+apidocs/index
+flower.md
 ```
